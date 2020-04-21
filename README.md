@@ -18,4 +18,5 @@ Auto shutdown the windows 10 device working on dark mode by just one click. The 
 ## Warnings
 -Currently works on only dark mode.  
 -Does not save the work, it has to be done manually before executing the program.  
--View of the icons should be set to small/list/details.
+-View of the icons should be set to small/list/details.  
+-Run the program from file manager/ide.
